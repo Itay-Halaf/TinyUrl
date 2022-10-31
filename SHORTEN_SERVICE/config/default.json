@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://root:admin@tinyurl.mlcczz3.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:3000"
+
+}
